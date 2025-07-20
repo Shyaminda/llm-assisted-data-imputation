@@ -27,7 +27,7 @@ project/
 │   └── processed/
 │       └── CEHHbInToW_handled_missing_values.csv
 │
-├── GenderPrediction.ipynb              # Jupyter notebook with full workflow
+├── 0_handle_missing_values.ipynb              # Jupyter notebook with full workflow
 ├── requirements.txt                    # List of dependencies
 └── README.md                           # This file
 ```
